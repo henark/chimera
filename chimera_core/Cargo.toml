@@ -1,0 +1,10 @@
+[package]
+name = "chimera_core"
+version = "0.1.0"
+edition = "2024"
+authors = ["Jules <jules@example.com>"]
+description = "Core library for the Chimera protocol, defining the Intent DSL and Agent structures."
+license = "MIT"
+repository = "https://github.com/example/chimera"
+
+[dependencies]
